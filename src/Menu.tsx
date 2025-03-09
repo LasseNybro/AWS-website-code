@@ -1,6 +1,6 @@
 import './Menu.css';
 
-function App() {
+function Menu() {
   return (
     <div className="Menu">
       <ul>
@@ -12,4 +12,4 @@ function App() {
   );
 }
 
-export default App;
+export default Menu;
